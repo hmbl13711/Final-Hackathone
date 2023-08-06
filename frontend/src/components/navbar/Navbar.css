@@ -1,0 +1,23 @@
+.navbar{
+    background-color:rgb(74, 19, 239);
+    border-radius:10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    
+}
+.nav-ol{
+    display: flex;
+
+}
+.nav-ol-li{
+    display: inline;
+    flex-direction:center;
+    margin-left: 100px;
+    padding-top: 10px;
+}
+.nav-ol-li a{
+    text-decoration: none;
+    color:white;
+}
