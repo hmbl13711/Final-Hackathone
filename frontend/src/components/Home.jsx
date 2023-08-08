@@ -1,6 +1,6 @@
 import React from 'react'
 // import SignUp from './signUp/SignUp'
-import UserProduct from './UserProduct'
+import UserProduct from '../components/products/UserProduct'
 
 const Home = () => {
   return (
